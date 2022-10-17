@@ -1,6 +1,16 @@
-### Requirements:
+# Is Your Birthday Lucky?
 
-- Input: user's complete birth date.
-- Input: lucky number.
-- Processing : Your app should calculate if the sum of digits of birthdate is divisible by the lucky number.
-- Output: birth date is lucky or not based on the results.
+#### A fun app to tell if your birthday is lucky or not with the help of your lucky number.
+
+<hr/>
+
+[Live demo of the app](https://ngc-mark11.netlify.app/)
+
+<hr/>
+
+### Technology Used:
+- HTML, CSS
+- Javascript
+- Deployed on Netlify
+
+<hr/>
