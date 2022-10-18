@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
 :root {
   --primary-color: hsl(214, 70%, 50%);
   --secondary-color: #9a8c98;
@@ -10,6 +12,7 @@
   box-sizing: border-box;
 }
 body {
+  font-family: 'Inter', sans-serif;
   background-color: var(--background-color);
   height: 100vh;
 }
@@ -26,14 +29,14 @@ body {
   width: 100%;
   background: var(--background-color);
   border-radius: 1rem;
-  box-shadow: 10px 10px 25px var(--secondary-color);
-  border: 3px solid var(--border-color);
+  /* box-shadow: 10px 10px 25px var(--secondary-color); */
+  /* border: 3px solid var(--border-color); */
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
 .card-header {
   text-align: center;
-  border-bottom: 2px solid var(--border-color);
+  /* border-bottom: 2px solid var(--border-color); */
   padding: 0.75rem 0.5rem;
   color: var(--primary-color);
   font-size: 1.5rem;
